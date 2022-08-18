@@ -1,5 +1,9 @@
-package Aula14_PadraoDAO;
+package Aula14_Service;
 
+import Aula14_PadraoDAO.ConfiguracaoJDBC;
+import Aula14_PadraoDAO.Medicamento;
+import Aula14_PadraoDAO.MedicamentoDaoH2;
+import Aula14_PadraoDAO.MedicamentoService;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
